@@ -1,0 +1,12 @@
+div.prod_container { width:100%; min-height:200px; height:200px;float: left; }
+div.error_msg { width:100%; color:maroon; }
+div.reco_msg { width:100%; font-size: 18px; font-weight:bold; padding-bottom: 5px; }
+div.individual_prod { width:120px; min-height:200px; height:200px; float:left; margin-left:5px; }
+div.individual_prod img { border:0px;}
+div.prod_img { width:75px; height:75px; border-style:none; }
+div.prod_name { font-weight: bold; text-align: justify; }
+div.prod_name a{ color: gray; font-weight: bold; text-align: justify;}
+div.prod_price { font-size: 14px;}
+div.add_to_cart { height:40px; }
+.admin_table { width:100%; }
+.admin_table th{ width:250px; font-weight:normal; text-align:left; }
